@@ -9,7 +9,7 @@ My name is Jason. 👋
 ##
 <details>
     <summary>Click if you love to run! ⚡</summary>
-    Follow me on 🏃‍♂️ <a href="https://strava.app.link/1YmU6XemSJb">Strava</a>! 💨
+    Follow me on 🏃‍♂️ <a href="https://www.strava.com/athletes/111528992">Strava</a>! 💨
 </details>
 
 
