@@ -1,4 +1,17 @@
-## Hi there 👋
+## *Hello World!*
+
+My name is Jason. 👋
+
+*Let's connect: 👇* 
+- 📫 Email: [jasonhswe@gmail.com](https://www.linkedin.com/in/jasonhswe/)
+- 🌐 LinkedIn: [linkedin.com/in/jasonhswe/](https://www.linkedin.com/in/jasonhswe/)
+
+##
+<details>
+    <summary>Click if you love to run! ⚡</summary>
+    Follow me on 🏃‍♂️ <a href="https://strava.app.link/1YmU6XemSJb">Strava</a>! 💨
+</details>
+
 
 <!--
 **itsdayson/itsdayson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
