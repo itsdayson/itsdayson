@@ -1,6 +1,6 @@
 ## *Hello World!*
 
-My name is Jason. 👋
+### 👋 My name is Jason.
 
 *Let's connect: 👇* 
 - 📫 Email: [jasonhswe@gmail.com](https://www.linkedin.com/in/jasonhswe/)
